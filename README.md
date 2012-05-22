@@ -1,7 +1,7 @@
-Google Hangout Builder (PHP)
+Google Plus Hangout Builder (PHP)
 ==========================
 
-The Google Hangout Builder is a PHP build tool that combines the use of Google's Closure Compiler, Yahoo's CSS Compressor and Apache's mod_include to output one Google Hangout XML file.
+The Google Plus Hangout Builder is a PHP build tool that combines the use of Google's Closure Compiler, Yahoo's CSS Compressor and Apache's mod_include to output one Google Hangout XML file.
 
 It's intended audience is for anyone interested in building a Google Hangout app that already has Apache configured and running locally and is also perhaps familiar with how Apache's mod_include combines files.
 
