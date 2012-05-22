@@ -1,0 +1,19 @@
+# Source Control
+.git
+.svn
+
+# File System
+.DS_Store
+
+# Files and Folders
+build/
+
+# Hangout Project
+.ignore
+.gitignore
+all.combined.js
+all.combined.css
+index.combined.html
+
+# Your Project XML
+my-hangout.combined.xml
