@@ -3,7 +3,7 @@
 class HangoutBuilder {
 
   private $_CONFIG,
-          $_HOST = 'http://my-hangout.local',
+          $_HOST = 'http://googlehangout.dev',
           $_PROJECT_NAME = 'my-hangout';
 
   public function __construct($config = array()) {
@@ -25,8 +25,8 @@ class HangoutBuilder {
       'combined_format' => 'all.combined',
 
       'rsync_enable' => true,
-      'rsync_user' => 'YOUR_USERNAME',
-      'rsync_host' => 'YOUR_REMOTE_HOST',
+      'rsync_user' => 'antoniocuga',
+      'rsync_host' => 'http://localhost/Google-Plus-Hangout-Builder/',
       'rsync_path' => 'YOUR_REMOTE_PATH',
       'rsync_ignore_file' => sprintf('%s/%s', $base_dir, '.ignore'),
       'rsync_identity_file' => 'YOUR_IDENTITY_FILE',
